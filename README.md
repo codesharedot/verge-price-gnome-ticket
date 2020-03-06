@@ -1,5 +1,8 @@
-# verge price gnome ticket 
+# verge gnome price ticker
 
-Gnome 3 desktop ticker for verge price with Python and argos. Rename to verge.1r.60s.py and put in ~/.config/argos
+Get verge price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/verge-price-gnome-ticket/](https://codesharedot.github.io/verge-price-gnome-ticket/)
 
-https://pythonbasics.org
+verge price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to verge.1r60s.py and put in ~/.config/argos
